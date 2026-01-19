@@ -24,7 +24,7 @@ const Footer = () => {
                  </ul>
               </div>
               <hr/>
-              <h5>© 2023 Naushad Salmanee. All rights reserved.</h5>
+              <h5>© 2025 Naushad Salmanee. All rights reserved.</h5>
           </div>
       </div>
     </section>
